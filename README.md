@@ -1,1 +1,1 @@
-# alx_be_shell
+Create a switch that switches the current user to user betty.
